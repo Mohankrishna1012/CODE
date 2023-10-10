@@ -1,0 +1,17 @@
+p,h1{
+    background-color: blue;
+}
+.parent{
+background-color: black;
+color: aliceblue;
+
+}
+#child{
+background-color: blueviolet;
+}
+h2{
+    background-color: orange;
+    width: 120px;
+    height: 150px;
+    border: 15px solid  black;
+}
